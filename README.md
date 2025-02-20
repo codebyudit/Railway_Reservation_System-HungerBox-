@@ -2,6 +2,10 @@
 
 A web-based Railway Reservation System that allows users to check seat availability, book tickets, cancel bookings, and check ticket status using a unique booking ID.
 
+## 📸 Demo Video
+<video src="https://github.com/codebyudit/Railway_Reservation_System-HungerBox-/assets/Railway Reservation System - Google Chrome 2025-02-20 19-25-20.mp4" controls></video>
+
+
 ## 🚀 Tech Stack
 - **Next.js** - For building the frontend and backend API routes.
 - **TypeScript** - Ensuring type safety and better developer experience.
@@ -23,13 +27,6 @@ A web-based Railway Reservation System that allows users to check seat availabil
 - **Ticket Cancellation**
   - Users can cancel a ticket using their Booking ID.
   - Canceling a ticket frees up the seat for new bookings.
-
-## 📸 Screenshots
-
-
-
-https://github.com/user-attachments/assets/b942f87d-3425-4241-9589-5ee27a05bd7f
-
 
 ## 🛠 Installation & Setup
 ### 1️⃣ Clone the repository

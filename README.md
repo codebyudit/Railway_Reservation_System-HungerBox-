@@ -3,7 +3,8 @@
 A web-based Railway Reservation System that allows users to check seat availability, book tickets, cancel bookings, and check ticket status using a unique booking ID.
 
 ## 📸 Demo Video
-<video src="https://raw.githubusercontent.com/codebyudit/Railway_Reservation_System-HungerBox-/main/assets/Railway Reservation System - Google Chrome 2025-02-20 19-25-20.mp4" controls></video>
+▶ [Watch Demo Video](https://drive.google.com/file/d/1x5eFCUfLnQeqU6S2P6YPrOrDcYwIc8vX/view?usp=sharing)
+
 
 
 ## 🚀 Tech Stack

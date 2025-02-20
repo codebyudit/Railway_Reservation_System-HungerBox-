@@ -25,7 +25,11 @@ A web-based Railway Reservation System that allows users to check seat availabil
   - Canceling a ticket frees up the seat for new bookings.
 
 ## 📸 Screenshots
-(Add screenshots of the UI here)
+
+
+
+https://github.com/user-attachments/assets/b942f87d-3425-4241-9589-5ee27a05bd7f
+
 
 ## 🛠 Installation & Setup
 ### 1️⃣ Clone the repository
